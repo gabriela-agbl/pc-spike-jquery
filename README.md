@@ -124,6 +124,6 @@ Recomendo o estudo do jQuery para quem deseja criar páginas simples com interat
 - [x] Markdown com conteúdo autoral
 - [x] Código funcional incluído
 - [x] Fontes listadas
-- [] Slides prontos
+- [x] Slides prontos
 - [x] Arquivo no GitHub
 
