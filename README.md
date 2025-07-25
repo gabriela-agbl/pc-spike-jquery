@@ -115,7 +115,7 @@ Recomendo o estudo do jQuery para quem deseja criar páginas simples com interat
 ## 7. Slides da Apresentação
 
 📎 Link para os slides:
-[figma.com/gabriela/jquery](https://www.figma.com/deck/h6ikk2N5a3CkIjdKwEbRmG/JQUERY?node-id=12-238)
+[figma.com/gabriela/jquery](https://www.figma.com/deck/h6ikk2N5a3CkIjdKwEbRmG/JQUERY?node-id=2-37)
 
 ---
 
